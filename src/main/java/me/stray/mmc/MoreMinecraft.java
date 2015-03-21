@@ -10,6 +10,7 @@ import net.minecraftforge.fml.common.event.FMLInitializationEvent;
 import net.minecraftforge.fml.common.event.FMLPostInitializationEvent;
 import net.minecraftforge.fml.common.event.FMLPreInitializationEvent;
 
+
 @Mod(modid = Reference.modid, name = Reference.modname, version = Reference.version)
 public class MoreMinecraft {
 	
