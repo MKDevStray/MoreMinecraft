@@ -1,0 +1,16 @@
+[
+{
+  "modid": "mmc",
+  "name": "More Minecraft",
+  "description": "Adds more of everything to minecraft.",
+  "version": "Dev v1.0",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Stray"],
+  "credits": "Stray",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
